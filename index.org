@@ -411,6 +411,13 @@
 
 如同往常一样，跟你聊天很愉快．晚安．（当然，我心里还想着别的哈哈．）
 
+* <2020-02-20 Thu>
+
+#+attr_html: :width 200px
+[[file:images/<2020-02-20_Thu>/song.jpeg]]
+
+😕这件事，比我想象中难得多，很多，非常多……
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
