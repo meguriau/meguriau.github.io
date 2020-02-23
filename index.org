@@ -418,6 +418,24 @@
 
 😕这件事，比我想象中难得多，很多，非常多……
 
+* <2020-02-22 Sat>
+
+说出来可能你不信，我3岁就精通看手相．这两手一看，就知道是是百年难得一遇的好姻缘！
+
+第一次在现实里看到食指比无名指长的人哈哈．好特别．其实你的手指很修长，虽然大家手指的长度和掌心差不多，但我的手指就粗很多……看到手，我就会想象整个人是怎样的．如果是看到胖乎乎的小手，就想是不是人就会有点婴儿肥？看到修长的手指就会想是不是个清秀的小姐姐？看到……我想起了我看到猫咪的爪子的时候，眼睛都要发光了！梅花印一样，可爱极了！
+
+#+attr_html: :width 400px
+[[file:images/<2020-02-22_Sat>/cat.jpg]]
+
+悄悄地跟你说，我还发现了你的菜单栏上有4个看视频的软件！还有，你的字好像打结的小虫子！看起来竟然有点可爱！😆
+
+* <2020-02-23 Sun>
+
+😄我是绘图小能手～
+
+#+attr_html: :width 800px
+[[file:images/<2020-02-21_Fri>/love.png]]
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
