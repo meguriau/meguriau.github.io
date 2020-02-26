@@ -452,6 +452,24 @@
 
 一月快乐～
 
+* <2020-02-25 Tue>
+
+当你说“我们”的时候，我总首先想起的是你们医院，而不是你们诊所……我想，莫非医院也会倒闭？！🙄
+
+#+begin_quote
+I've always believed in numbers, in the equations and logics that lead to reason. But after a lifetime of such pursuits, I ask, "What truly is logic? Who decides reason?" My quest has taken me through the physical, the metaphysical, the delusional -- and back. And I have made the most important discovery of my career, the most important discovery of my life: It is only in the mysterious equations of love that any logic or reasons can be found. I'm only here tonight because of you. You are the reason I am. You are all my reasons. Thank you.
+
+— A Beautiful Mind
+#+end_quote
+
+今天走在路上的时候不知道咋的就想起了这部电影．除了结尾以及主角陷入妄想的片段，剧情基本上我都忘了．这段话是电影里的他上台拿诺贝尔奖的致词．这个世界上不讲逻辑，不可推导，不能证明的事情是不是太多了．为什么喜欢不能只是喜欢，爱不能只是爱．不能是全部的话，也得让它们占上个百分之八九十吧．所有剧情都遵循剧本而不是内心，再美的公式又有什么用！人生如戏，如戏个屁！
+
+#+begin_quote
+I don't, I just believe it.
+#+end_quote
+
+多一个月，好好好漫长啊！😔
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
