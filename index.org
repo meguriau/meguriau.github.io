@@ -544,6 +544,16 @@ I don't, I just believe it.
 
 我这样的人是你眼中应该很傻吧hah，我只是想喜欢这件事情纯粹一点．
 
+* <2020-02-29 Sat>
+
+一觉起来发现今年2月居然有29号！看来感情这东西真的会让人变傻……
+
+看到你这么忙，我在想我是不是应该也要收敛收敛……🙁
+
+晚上我在唱《あなたのために弾きたい》，歌的难度跟长短真的没什么关系……没学会弹之前，先学会唱吧．
+
+好想找你说话，现在是21点09分，忍多一个钟的话，等你睡了今天我就能放弃这个想法．
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
