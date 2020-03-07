@@ -632,6 +632,9 @@ I don't, I just believe it.
 
 我也相信，因为不想「気づいたら片想い」．与喜欢的人牵手去看春天盛开的黄铃木，这样的日子值得努力和相信，值得去和……争取一下．
 
+#+attr_html: :width 500px
+[[file:images/<2020-03-07_Sat>/tree.png]]
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
