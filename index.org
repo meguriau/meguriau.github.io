@@ -262,7 +262,7 @@
 
 我不知道什么是原则问题．喜欢一个人会被什么原则左右．更不知道年龄差是怎样成为一个原则问题．我可能想诡辩．大一年是大很多吗？不是？大两年是大很多吗？……大六年是大很多吗？不是？大七年是很多吗？是？为什么多大一年就是大很多？为什么八年就不可以？
 
-八年，差的是什么？八年，是不是就可以定义衰老．经常看到说35岁的程序员将何去何从？我从没有想过这个问题．为什么喜欢的事要用年龄去界限做与不做．为什么程序员总要被扣上加班多，头发少，死得早，情商低的帽子？八年是不是就得扣上身体素质差性能力低下的帽子？可能不是，但就是．人それぞれ？在大众眼里，我不过也一样．
+八年，差的是什么？八年，是不是就可以定义衰老．经常看到说35岁的程序员将何去何从？我从没有想过这个问题．为什么喜欢的事要用年龄去界限做与不做．为什么程序员总要被扣上加班多，头发少，死得早，情商低的帽子？八年是不是就得扣上身体素质差性不健康的帽子？可能不是，但就是．人それぞれ？在大众眼里，我不过也一样．
 
 静待的[[#-2020-02-05-wed-hjgl][花]]，原来与我无关．
 
@@ -588,6 +588,9 @@ I don't, I just believe it.
 不小心又废话一大堆，还是控制一下字数吧……
 
 * <2020-03-03 Tue>
+:PROPERTIES:
+:CUSTOM_ID: -2020-03-03-tue-fomn
+:END:
 
 今天这个有点搞笑……我说石门小学的时候，你说我猜对了一半，而这两个字的一半……😅确实是一半．
 
@@ -634,6 +637,50 @@ I don't, I just believe it.
 
 #+attr_html: :width 500px
 [[file:images/<2020-03-07_Sat>/tree.png]]
+
+* <2020-03-08 Sun>
+
++啊啊啊啊～好想你，丽华．好想跟你说话．现在是下午16点05分19秒，在发呆．+
+
+虽然我又想你了，但我觉得我不应该经常大声跟你说：我想你了！
+
+我应该把自己变得更好一些吧，这样才有可能配得上你．这样才有可能成为那个能让你愿意去冲撞“原则”的人吧．
+
+看到你专注的样子，想起以前的我，我也有过这样一段日子呢．现在的我当然也没有自甘堕落，只是在所有生活的事情里，每样东西的比重在不断地发生着变化．对于此刻的我来说，最想就是追逐爱情与工作．每个人都在自己的时间线上奔跑，有人慢，有人快，有人终点迟迟未见，有人早已在歇息．这个年纪还在追逐爱情或许会被笑吧，但是遇到喜欢的人，我想追想上她，然后与她一起奔跑．
+
+之前我看到的一篇文章，也想你看看．
+
+#+begin_quote
+New York is three hours ahead of California,
+But that doesn’t make California slow.
+Someone graduated at the age of 22,
+But waited five years before securing a good job.
+Some became a CEO at 25,
+And died at 50.
+While another became a CEO at 50,
+And lived to 90 years.
+Someone is still single,
+While someone else got married.
+Obama retired at 55,
+& Trump started at 70.
+Everyone in this world works based on their time zone.
+People around you might seem to be ahead of you,
+& some might seem to be behind you.
+But everyone is running their own race, in their own time.
+Do not envy them & do not mock them.
+They are in their time zone, and you are in yours.
+Life is about waiting for the right moment to act.
+So, relax.
+You’re not late.
+You’re not early.
+You are very much on time.
+#+end_quote
+
+* <2020-03-09 Mon>
+
+我不喜欢你客客气气的样子．
+
+有可能我走了90步，我们还是相距10步，虽然我不想它发生，但或许它真的发生，我也不想我们做刻意保持距离的朋友一样．我是有时有点[[#-2020-03-03-tue-fomn][小心翼翼]]，但我不想小心翼翼，而且我也可以不小心翼翼．我觉得10步的距离，也不至于需要小心翼翼．于我，你是独一无二；于你，能否也稍微能让我们靠近一点？
 
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
