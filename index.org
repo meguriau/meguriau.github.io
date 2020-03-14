@@ -724,3 +724,14 @@ You are very much on time.
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
 # End:
+* <2020-03-14 Sat>
+
+😊
+
+#+begin_quote
+10天 50天 100天 500天 1000天 5000天 10000天 50000天…50000天到不了！一辈子就没有了！！！
+
+— 不恐怖吗！
+#+end_quote
+
+每次这天我都只发一个表情……现在回来看，这句无聊的话好像有点意思！
