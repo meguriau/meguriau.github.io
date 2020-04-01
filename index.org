@@ -969,6 +969,18 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 
 🙁10分钟都不给我……
 
+* <2020-03-31 Tue>
+
+#+begin_quote
+所以啊，我其实没你想象中那么阳光...焦虑其实算是我的常态[Concerned][Concerned]只是程度不一，调节的时间不一...
+#+end_quote
+
+哈哈，微信上我说过的就不再说了～没说的就在这里说．我想你看到．
+
+你可能没有察觉，我没有想象过你很久了．我已经习惯了你的语言，你的文字以及你的情感．不知道你会不会有这样的感觉，反正我是会的．只要你不是刻意去欺骗我，从你的文字里就已经读得出你是怎样的一个人了．最初可能存在想象，甚至幻想，包括你的容貌，声线，性格，脾气，观点……时间长了就会发现根本不需要想象，你就是我眼前的这样一个你，这就是我喜欢的样子，伴随着时间它变得日渐清晰，直到我已经知道眼前的丽华是一个怎样的人．
+
+😂当然，你也不忘打击一下我……如果结合前面所说的就会知道，有一天打败我的不是你父母的原则问题，也不是你的打击，而是我自己．
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
