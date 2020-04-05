@@ -1033,6 +1033,11 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 
 不知道你PPT做得怎样了，加油！阳光与我，都在等你．
 
+现在是17点27分07秒，天气预报说29分之后会下雨．差不多到你运动的时候了吧，不过今天又不能跑步了诶．
+
+#+attr_html: :width 200px
+[[file:images/index/rain.jpeg]]
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
