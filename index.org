@@ -1008,7 +1008,7 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 #+attr_html: :width 600px
 [[file:images/index/errors.png]]
 
-在表达自己的情感里，不太容易取得一个平衡．
+我以为是在表达自己的情感，或许别人看来就是证明自己．
 
 就算这样，还是想跟你说晚安．
 
