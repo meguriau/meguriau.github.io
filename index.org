@@ -194,7 +194,7 @@
 
 #+attr_html: :width 400px
 #+caption: 我又想起了Desmond的对白……
-[[file:images/<2020-02-03_Mon>/desmond.gif]]
+[[file:images/index/desmond.gif]]
 
 你会不会是我的constant呢？在成为你的牵挂之前，今晚我选择不去找你．
 
@@ -226,7 +226,7 @@
 我变得在乎你了．但我却没有勇气和你说．但我依然想，有一天你和我一起把它卸载了．
 
 #+attr_html: :width 200px
-[[file:images/<2020-02-05_Wed>/care.jpeg]]
+[[file:images/index/care.jpeg]]
 
 * <2020-02-06 Thu>
 
@@ -317,14 +317,14 @@
 终于听到你的声音，一听就知道是个很正经的（真面目な）小姐姐．听到的那一刻，感觉“実感”又增加了．
 
 #+attr_html: :width 200px
-[[file:images/<2020-02-11_Tue>/voice.jpeg]]
+[[file:images/index/voice.jpeg]]
 
 早上给你发了一首最近喜欢听的歌，感觉大小姐的声音很有穿透力．你的笑容跟她的一样好看．
 
 我也想，有一天可以为你而弹．我也想，可以守护你的笑容．
 
 #+attr_html: :width 500px
-[[file:images/<2020-02-11_Tue>/erika.png]]
+[[file:images/index/erika.png]]
 
 * <2020-02-12 Wed>
 
@@ -335,7 +335,7 @@
 直到我和陈医生通过一条朋友圈聊起天来．
 
 #+attr_html: :width 200px
-[[file:images/<2020-02-13_Thu>/koi.jpeg]]
+[[file:images/index/koi.jpeg]]
 
 原来的我，大概会在二月十日和你表白．我想把这特别的一天，变成真正的纪念日．而现在五天前，我就知道了结果．如果这个五天前的这个结果，再推到二十一天之前就让我知道．我还会去答你的题吗？
 
@@ -406,7 +406,7 @@
 住在学校的时候，散步经常文化广场，就喜欢在那里驻足停留．那里总是没什么人．记得考《拓扑学》之前，因为图书馆没有座位，我就在那里坐了好几天．那是一月上旬，虽然很冷，但有阳光，所以实际也没那么冷．我就那样坐着看课本，偶尔也看一下路过的零星几个人．好几天里也没有发生什么特别的事情．就像，一件小事．在那之后，当我路过广场的时候自然会想起那一段短暂的日子．现在我已经不在学校那边出没了，有时我只是走在某条路上，就会突然想起那几天．那时的我不是有多刻苦，有多认真，也不是说考试有多么惨不忍睹印象难忘．我大概只是记得那几天的阳光和温度．
 
 #+attr_html: :width 400px
-[[file:images/<2020-02-19_Wed>/girls.jpeg]]
+[[file:images/index/girls.jpeg]]
 
 夜阑人静的时候，有时会打开手机，随意翻翻相册，点到哪里就是哪里．我不知道这是不是刻意的回忆，我就是无聊随便翻一翻．照片里自然记录下过往的那一个瞬间，蓝天，白云，阳光，风景，人像，笑颜，夜幕，灯光……是那么的真实，看到的时候自然会想起当天眼前的景象．但是，按下快门那一刻的心情，只有摄影师自己知道，也只属于他自己．脑海里那些不时闪现的片段，大概也是因为当时的心情，才变得那么深刻．尽管它可能很奇怪，比如那一个涂鸦，大概是上课走神，在老师眼皮底下痴笑着画出来的．自己没有意识到，但它可能跟记忆一样潜藏在某个大脑部分，有一天伴随记忆总能被唤醒．
 
@@ -417,7 +417,7 @@
 * <2020-02-20 Thu>
 
 #+attr_html: :width 200px
-[[file:images/<2020-02-20_Thu>/song.jpeg]]
+[[file:images/index/song.jpeg]]
 
 😕这件事，比我想象中难得多，很多，非常多……
 
@@ -428,7 +428,7 @@
 第一次在现实里看到食指比无名指长的人哈哈．好特别．其实你的手指很修长，虽然大家手指的长度和掌心差不多，但我的手指就粗很多……看到手，我就会想象整个人是怎样的．如果是看到胖乎乎的小手，就想是不是人就会有点婴儿肥？看到修长的手指就会想是不是个清秀的小姐姐？看到……我想起了我看到猫咪的爪子的时候，眼睛都要发光了！梅花印一样，可爱极了！
 
 #+attr_html: :width 400px
-[[file:images/<2020-02-22_Sat>/cat.jpg]]
+[[file:images/index/cat.jpg]]
 
 悄悄地跟你说，我还发现了你的菜单栏上有4个看视频的软件！还有，你的字好像打结的小虫子！看起来竟然有点可爱！😆
 
@@ -437,7 +437,7 @@
 😄我是绘图小能手～
 
 #+attr_html: :width 800px
-[[file:images/<2020-02-21_Fri>/love.png]]
+[[file:images/index/love.png]]
 
 * <2020-02-24 Mon>
 
@@ -575,7 +575,7 @@ I don't, I just believe it.
 今天早上起来，我又把你的昵称改成了「アサガオ」……😒可能是强迫症，平假名看着总是有点怪怪的．而片假名作为地名或者人名就顺眼多了……
 
 #+attr_html: :width 300px
-[[file:images/<2020-03-02_Mon>/result.jpeg]]
+[[file:images/index/result.jpeg]]
 
 让我有想法的是“总是很被动不愿意主动害怕做错什么”．想了一下，大概有两种情况比较主动的．一是遇到喜欢的人，二是做我决定做一件事之后．但是，这句话换一种说法就是“遇到喜欢的人，或者在决定做一件事之前，都不怎么主动”．
 
@@ -599,7 +599,7 @@ I don't, I just believe it.
 如果梦里与现实是相反的，那我再也不要梦到你了．
 
 #+attr_html: :width 400px
-[[file:images/<2020-03-03_Tue>/dream.jpeg]]
+[[file:images/index/dream.jpeg]]
 
 * <2020-03-04 Wed>
 
@@ -636,7 +636,7 @@ I don't, I just believe it.
 我也相信，因为不想「気づいたら片想い」．与喜欢的人牵手去看春天盛开的黄铃木，这样的日子值得努力和相信，值得去和……争取一下．
 
 #+attr_html: :width 500px
-[[file:images/<2020-03-07_Sat>/tree.png]]
+[[file:images/index/tree.png]]
 
 * <2020-03-08 Sun>
 
@@ -760,7 +760,7 @@ You are very much on time.
 以前在学校的时候，每年从春天开始，看着学校里的异木棉盛开；到木棉花开始掉落一地；到三月饭堂附近的细叶榕一片一片地开始落下，到一夜落光，而后萌发新芽；到西门路上的黄铃木染出一路鲜黄以及草地上的粉红色不知名小花开满一地；到教学楼周边的广州樱含苞待放，但又经常不开；到宿舍窗外的大叶紫薇开始盛放，到湖里荷花开始露出尖尖角……春夏秋冬，变得习以为常．
 
 #+attr_html: :width 400px
-[[file:images/<2020-03-17_Tue>/school.jpg]]
+[[file:images/index/school.jpg]]
 
 我大概还是喜欢那里吧，即使别人眼里也是如此简单的景象．我想带你看看，看这春夏秋冬．
 
@@ -866,7 +866,7 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 当你在意一个人的时候，到处都有她的影子．😄这都能看到“你”！ 不过我是有多无聊才在看别人写字……
 
 #+attr_html: :width 200px
-[[file:images/<2020-03-27_Fri>/name.png]]
+[[file:images/index/name.png]]
 
 ** <2020-03-27 Fri>
 
@@ -947,7 +947,7 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 - ……
 
 #+attr_html: :width 600px
-[[file:images/<2020-03-27_Fri>/classroom.JPG]]
+[[file:images/index/classroom.JPG]]
 
 * <2020-03-28 Sat>
 
