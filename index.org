@@ -1016,6 +1016,9 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 
 清明节11点42分28秒，出了一点太阳了，不知道你有没有看到．
 
+#+attr_html: :width 400px
+[[file:images/index/sunshine.png]]
+
 今天，要缅怀的，有很多．
 
 晚安啦．
