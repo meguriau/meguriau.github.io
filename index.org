@@ -1031,7 +1031,7 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 
 特别怀念你什么都愿意跟我说的日子．
 
-不知道你PPT做得怎样了，加油！
+不知道你PPT做得怎样了，加油！阳光与我，都在等你．
 
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
