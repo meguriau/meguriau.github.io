@@ -1053,6 +1053,8 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 
 如果是我的回答，我的答案是100%不会．不是因为别的，而是因为我相信那时的我和你．
 
+啊！我怀疑我以前不是那样容易有情绪波动的．虽然也不是大大咧咧．究竟是被牵动了，还是矫情．
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
