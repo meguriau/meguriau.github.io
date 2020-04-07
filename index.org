@@ -1043,6 +1043,16 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 
 半夜下起了雨来，有时淅沥淅沥可以助眠，有时滴答滴答也会助长失眠．你这么易醒，不知道会不会被这雨声吵醒呢？
 
+* <2020-04-07 Tue>
+
+我没啥想说的了．都说过了．唯独一个，
+
+#+begin_quote
+我就问一句，如果当天你没问你父母，今天会变成这样吗？
+#+end_quote
+
+如果是我的回答，我的答案是100%不会．不是因为别的，而是因为我相信那时的我和你．
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
