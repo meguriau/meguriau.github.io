@@ -1055,6 +1055,8 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 
 啊！我怀疑我以前不是那样容易有情绪波动的．虽然也不是大大咧咧．究竟是被牵动了，还是矫情．
 
+我只想做个什么时候看到你眼睛都能发光的男孩．
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
