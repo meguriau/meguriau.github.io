@@ -1057,6 +1057,34 @@ Being happy isn't having everything in your life be perfect. Maybe it's about st
 
 我只想做个什么时候看到你眼睛都能发光的男孩．
 
+* <2020-04-08 Wed>
+
+说啥呢．剩下我自言自语．
+
+她你高兴就好．
+
+是很晦气，这句话．
+
+但我能怎样．我能怎样．我想她高兴，那只能委屈一下我自己．
+
+让她变得这么抗拒，很对不起．
+
+不到一周前我们还在聊小时候吃的东西和好吃的客家丸子．
+
+* <2020-04-09 Thu>
+
+她看过来，我应该比较好笑吧．也不知道在为一个素未谋面的人纠结什么吧．说想她，应该会被笑吧．
+
+她看过来，就萍水相逢，过两天就可以把我这污点抹掉吧．
+
+我好喜欢她．好喜欢．好想她．却不能跟她说话，告诉她我想她．或者只跟她说说话．没想到这么抗拒．虽然我也有不喜欢她的地方．
+
+比如，每次不小心说了“可能”就生怕我有希望一样，马上改口“不能”．
+
+比如，说顺其自然，内心里一直一直一直提醒着自己一点一点一点也不能跟我发生点什么，生怕我会误会．我一点儿也没有误会．Nothing changes. Yesterday. Today. Tomorror.
+
+觉得，这样我就会跟她说，谢谢你的绝情让我学会死心？
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
