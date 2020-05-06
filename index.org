@@ -5,6 +5,10 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-05-06 Wed>
+
+昨晚梦见了你和一个你也认识的人，然后她让我给她写一张名信片．
+
 * <2020-05-05 Tue>
 
 今天我丢了一个小番茄．
