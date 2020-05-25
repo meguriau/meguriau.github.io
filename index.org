@@ -5,6 +5,13 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-05-24 Sun>
+
+#+caption: 你，与我走过的路
+[[file:images/index/michi.jpeg]]
+
+四个月快乐．
+
 * <2020-05-22 Fri>
 
 我几乎没有主动过酒．是的，几乎．
