@@ -5,6 +5,10 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-05-25 Mon>
+
+是缘，不是分呢．
+
 * <2020-05-24 Sun>
 
 #+caption: 你，与我走过的路
