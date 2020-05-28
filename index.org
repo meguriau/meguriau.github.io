@@ -5,6 +5,10 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-05-27 Wed>
+
+你就是不够想，你要是够想，你早就去了，丽华．
+
 * <2020-05-25 Mon>
 
 是缘，不是分呢．
