@@ -5,6 +5,10 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-05-30 Sat>
+
+一整晚没睡，为什么这么想你．辗转反侧的时候除了热，就是难过．
+
 * <2020-05-28 Thu>
 
 对我来说唯一的无力感就是，当你不想理我的时候，我什么也做不了．
