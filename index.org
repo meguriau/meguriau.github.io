@@ -5,6 +5,10 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-06-09 Tue>
+
+我昨晚梦见你给我打分了……
+
 * <2020-06-08 Mon>
 
 今天在朋友圈看到了一条朋友圈说：
