@@ -5,6 +5,13 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-06-16 Tue>
+
+第一次去日本的时候，像小孩冒险一样，那样的日子不会再有了．
+
+#+attr_html: 600px
+[[file:images/index/japan.jpeg]]
+
 * <2020-06-13 Sat>
 
 出门之前提醒自己，语速要放慢．结果还是说得超快，果然一激动起来就装不了斯文……
