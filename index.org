@@ -5,6 +5,11 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-06-21 Sun>
+
+#+attr_html: 300px
+[[file:images/index/eclipse.jpeg]]
+
 * <2020-06-20 Sat>
 
 发现了两件事情：
