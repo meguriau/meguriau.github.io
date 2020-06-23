@@ -5,7 +5,13 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-06-22 Mon>
+
+150天快乐，今天就不给你说恐怖的事情了．想读懂你的每一个表情，成为最懂你的人．
+
 * <2020-06-21 Sun>
+
+夏至快乐，今天终于可以跟你说我们迎来了夏天．
 
 #+attr_html: 300px
 [[file:images/index/eclipse.jpeg]]
