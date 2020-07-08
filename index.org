@@ -5,7 +5,7 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
-* 我希望丽华做的事
+* 📌我希望丽华去做的事
 
 1. 多接触不同的人，不同的书与不同的视觉．
 2. Start before she's ready.
