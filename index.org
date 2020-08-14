@@ -8,6 +8,12 @@
 * <2020-08-14 Fri>
 
 #+begin_quote
+Once you commit to a goal, it might take lots of thinking and many revisions to your plan over a considerable time period in order to finalize the design and do the tasks to achieve it. So you need to set goals without yet assessing whether or not you can achieve them.
+
+This requires some faith that you really can achieve virtually anything, even if you don’t know how you will do it at that moment. Initially you have to have faith that this is true, but after following this process and succeeding at achieving your goals, you will gain confidence.
+#+end_quote
+
+#+begin_quote
 我不理会他们的结论，我只在意他们得出这些结论的推理过程，这才是对我有意义的地方．
 #+end_quote
 
