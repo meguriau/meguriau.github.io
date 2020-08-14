@@ -1,4 +1,4 @@
-#+title: Hyperrealist
+#+title: 朝顔
 #+author:小烦
 #+options: num:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
