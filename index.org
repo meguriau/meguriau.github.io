@@ -2262,6 +2262,8 @@ I don't, I just believe it.
 
 是的，我之前说过，我的确没有什么资格去想你成为怎样的人．你就是我最初认识到的你，一直没有变过．但是，我还是希望这些无限期更新的[[file:credit_cookie.org][小废话]]能对你会有所帮助．
 
+2020.08.13
+
 # Local Variables:
 # org-time-stamp-custom-formats: ("<%Y年%m月%d日>" . "<%Y年%m月%d日 %H时%M分>")
 # eval: (setq-local org-download-image-dir (expand-file-name "images" (file-name-directory (buffer-file-name))))
