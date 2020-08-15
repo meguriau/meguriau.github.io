@@ -5,6 +5,10 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-08-15 Sat>
+
+小年轻，感觉状态不太对劲．不过这次不追问你，不管关不关我事，如果你想说，那我就听．早上大暴雨，突然又天晴了．
+
 * <2020-08-14 Fri>
 
 总结：（晚上写）
