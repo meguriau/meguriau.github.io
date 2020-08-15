@@ -1,4 +1,4 @@
-#+title: 低配版Educated
+#+title: Poor Man's Educated
 #+subtitle: 如果你想说，那我就在听．
 #+author:小烦
 #+options: num:nil
