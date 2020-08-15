@@ -1,0 +1,18 @@
+#+title: 彩蛋
+#+author:小烦
+#+options: num:nil
+#+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
+#+options: toc:nil num:nil html-style:nil
+#+startup: customtime
+
+* 📌《我希望丽华去尝试的事》
+
+1. 多接触不同的人，不同的书与不同的视觉，去发现不同的观点和感受．
+2. Start before she's ready．
+3. 坚信决心、信心、勇气和期待，可以创造美好．脚踏实地的时候，别忘了仰望星空．
+4. 当一个马拉松选手而不是短跑选手，累了就放慢脚步先歇息一下，不着急．不要急性子．
+5. 做自己的小太阳，然后才是这个世界的小太阳．
+6. 偶尔依赖一下身边人，身边事．
+7. 在不断的尝试里找到最适合自己成长的方式．
+8. 记住我的电话，以及学习「めぐり逢う」这个单词，然后记住个域名．
+9. 有空看看[[https://www.icloud.com.cn/sharedalbum/#B0VJEsNWnJ5730m][我们]]，凡事先想“我们”，再是想“我”．
