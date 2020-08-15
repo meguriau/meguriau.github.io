@@ -5,7 +5,6 @@
 #+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
-#+options: html-postamble:nil
 
 * <2020-08-15 Sat>
 
