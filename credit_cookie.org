@@ -4,6 +4,7 @@
 #+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
+#+options: html-postamble:nil
 
 * 📌《我希望丽华去尝试的事》
 

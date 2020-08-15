@@ -5,6 +5,7 @@
 #+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
+#+options: html-postamble:nil
 
 我父母跟你父母不一样，一个小学毕业，一个小学5年级（那时候五年制）没毕业．我爹从小就从我乡下过来城镇打工了，说是城和乡，其实就隔一条江，北江．三水就是因北江、西江与绥江交汇而名．那时候还没有桥，来回就是靠的小艇，嗯，要把摩托上推上去那种．我娘小时候在娘家那边养鹅，过的就是一个鸡蛋分给几个兄弟姐妹吃的生活．那还是个学费只用3块钱的年代．后来我娘出来城镇打工，在酒楼里工作，就是上茶点什么的，然后就认识了我爹．一来二往，就谈上了． label:ship
 
