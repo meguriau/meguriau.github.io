@@ -1,4 +1,5 @@
 #+title: 彩蛋
+#+subtitle: 如果你看到．
 #+author:小烦
 #+options: num:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
