@@ -1,0 +1,11 @@
+#+title: 朝顔
+#+subtitle: 如果你想说，那我就在听．
+#+author:小烦
+#+options: num:nil
+#+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
+#+options: toc:nil num:nil html-style:nil
+#+startup: customtime
+
+* Sunshine
+
+[[file:2020-08.org][2020.08]] [[file:2020-07.org][2020.07]] [[file:2020-06.org][2020.06]] [[file:2020-05.org][2020.05]] [[file:2020-04.org][2020.04]] [[file:2020-03.org][2020.03]] [[file:2020-02.org][2020.02]] [[file:2020-01.org][2020.01]] [[file:all.org][all]]

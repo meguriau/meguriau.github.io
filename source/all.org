@@ -1,0 +1,11 @@
+#+include: options.org
+
+#+include: index.org :lines "2-"
+#+include: 2020-08.org :lines "2-"
+#+include: 2020-07.org :lines "2-"
+#+include: 2020-06.org :lines "2-"
+#+include: 2020-05.org :lines "2-"
+#+include: 2020-04.org :lines "2-"
+#+include: 2020-03.org :lines "2-"
+#+include: 2020-02.org :lines "2-"
+#+include: 2020-01.org :lines "2-"
