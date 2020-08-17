@@ -6,6 +6,12 @@
 #+options: toc:nil num:nil html-style:nil
 #+startup: customtime
 
+* <2020-08-18 Tue>
+
+每次看到你“正在输入……”又撤回的时候就让我很抓狂．
+
+加油吧．
+
 * <2020-08-17 Mon>
 
 可以当蜗牛慢悠悠，但不可以只躲在壳里．🐌可以背着你的小房子慢慢前进．
