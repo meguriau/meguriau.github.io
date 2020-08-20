@@ -389,9 +389,11 @@ I don't, I just believe it.
 
 我想起了一个朋友，他精通钢琴，从小就在音乐世家里，和我做一样的工作．他有很多天马行空的想法，包括工作上的（比如总是不能落地的有趣方案）和生活上的（比如下班就辞职去流浪演出）．他说他另一半是个很现实的人，甚至有点势利．当然，这没有否认他们的爱情．他说，在他每每沉醉在自己的音乐世界里，甚至父母都觉得他变得不靠谱的时候，他另一个是一个能把他拉回现实世界的人．这大概就是他的牵挂吧．
 
-#+attr_html: :width 500px
-#+caption: 我又想起了Desmond的对白……
-[[file:images/index/desmond.gif]]
+我又想起了Desmond的对白：
+
+#+begin_quote
+I'm calling my bloody constant！
+#+end_quote
 
 你会不会是我的constant呢？在成为你的牵挂之前，今晚我选择不去找你．
 

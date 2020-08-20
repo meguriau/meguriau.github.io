@@ -90,10 +90,8 @@
 Once you commit to a goal, it might take lots of thinking and many revisions to your plan over a considerable time period in order to finalize the design and do the tasks to achieve it. So you need to set goals without yet assessing whether or not you can achieve them.
 
 This requires some faith that you really can achieve virtually anything, even if you don’t know how you will do it at that moment. Initially you have to have faith that this is true, but after following this process and succeeding at achieving your goals, you will gain confidence.
-#+end_quote
 
-#+begin_quote
-我不理会他们的结论，我只在意他们得出这些结论的推理过程，这才是对我有意义的地方．
+— /Principles/
 #+end_quote
 
 -------------------------------------------------------------------------------
@@ -117,9 +115,6 @@ This requires some faith that you really can achieve virtually anything, even if
 * <2020-08-13 Thu>
 
 倒垃圾的时候不小心走远了．地铁旁边有一间卖牛奶的店．那天晚上，我第一次过来这边，跟你说了几句之后，我在这里买了一瓶牛奶．然后就叫了车．唯一记得的是，在路上司机跟我说：你不要太晚回来，跨服务区要收取调度费！
-
-#+attr_html: :width 500px
-[[file:images/index/rain.png]]
 
 --------------------------------------------------------------------------------
 
