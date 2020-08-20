@@ -125,7 +125,7 @@ I don't, I just believe it.
 
 😄我是绘图小能手～
 
-#+attr_html: :width 600px
+#+attr_html: :width 500px
 [[file:images/index/love.png]]
 
 * <2020-02-22 Sat>
@@ -358,7 +358,7 @@ I don't, I just believe it.
 经过昨天，我发现我有点患得患失．我怕把你丢了……但其实我从来没有拥有过你．
 
 #+begin_quote
-放心，我一直都在[Sun]．
+放心，我一直都在[太阳]．
 #+end_quote
 
 我是个大龄大叔，也拍过拖，但在感情上觉得自己还是一点也不强大．自己不温暖，如何去温暖别人？要成为更大的太阳，才能照耀想照耀的人吧．
