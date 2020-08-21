@@ -55,6 +55,7 @@
 
 夏至快乐，今天终于可以跟你说我们迎来了夏天．
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/eclipse.jpeg]]
 
@@ -75,6 +76,7 @@
 
 发现天鹅两只．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 #+caption: 我都开始佩服自己的想象力了……
 [[file:images/index/sky.jpeg][file:images/index/sky.jpeg]]
@@ -93,6 +95,7 @@
 
 只是第一次去日本的时候，像小孩冒险一样，那样的日子不会再有了．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/japan.jpeg]]
 
@@ -102,6 +105,7 @@
 
 每次都说超多，总觉得说不完．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/yourway.jpeg]]
 
@@ -111,6 +115,7 @@
 
 原来是一家古老的凉茶糖水店，现在已经拆了．开始有点失望．然后往回走的时候发现原来店子迁到了路口的前面，但是跟另一个饭馆合并了．还是一家四川饭馆．店面一点也认不出来了，凉茶也不卖了．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/dezato.png]]
 

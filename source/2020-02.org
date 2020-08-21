@@ -125,6 +125,7 @@ I don't, I just believe it.
 
 😄我是绘图小能手～
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/love.png]]
 
@@ -134,6 +135,7 @@ I don't, I just believe it.
 
 第一次在现实里看到食指比无名指长的人哈哈．好特别．其实你的手指很修长，虽然大家手指的长度和掌心差不多，但我的手指就粗很多……看到手，我就会想象整个人是怎样的．如果是看到胖乎乎的小手，就想是不是人就会有点婴儿肥？看到修长的手指就会想是不是个清秀的小姐姐？看到……我想起了我看到猫咪的爪子的时候，眼睛都要发光了！梅花印一样，可爱极了！
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/cat.jpg]]
 
@@ -141,6 +143,7 @@ I don't, I just believe it.
 
 * <2020-02-20 Thu>
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/song.jpeg]]
 
@@ -158,6 +161,7 @@ I don't, I just believe it.
 
 住在学校的时候，散步经常文化广场，就喜欢在那里驻足停留．那里总是没什么人．记得考《拓扑学》之前，因为图书馆没有座位，我就在那里坐了好几天．那是一月上旬，虽然很冷，但有阳光，所以实际也没那么冷．我就那样坐着看课本，偶尔也看一下路过的零星几个人．好几天里也没有发生什么特别的事情．就像，一件小事．在那之后，当我路过广场的时候自然会想起那一段短暂的日子．现在我已经不在学校那边出没了，有时我只是走在某条路上，就会突然想起那几天．那时的我不是有多刻苦，有多认真，也不是说考试有多么惨不忍睹印象难忘．我大概只是记得那几天的阳光和温度．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/girls.jpeg]]
 
@@ -215,6 +219,7 @@ I don't, I just believe it.
 
 直到我和陈医生通过一条朋友圈聊起天来．
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/koi.jpeg]]
 
@@ -228,6 +233,7 @@ I don't, I just believe it.
 
 初めて、君は僕の名前を呼んでくれました．バレンタインデーより、今日を僕らの記念日にしてほしいです．你不用怕我误会什么，因为你说什么我都会误会的……或许你会因此而疏远我吧．
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/name.jpeg]]
 
@@ -245,6 +251,7 @@ I don't, I just believe it.
 
 终于听到你的声音，一听就知道是个很正经的（真面目な）小姐姐．听到的那一刻，感觉"実感"又增加了．
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/voice.jpeg]]
 
@@ -252,6 +259,7 @@ I don't, I just believe it.
 
 我也想，有一天可以为你而弹．我也想，可以守护你的笑容．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/erika.png]]
 
@@ -350,6 +358,7 @@ I don't, I just believe it.
 
 我变得在乎你了．但我却没有勇气和你说．但我依然想，有一天你和我一起把它卸载了．
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/care.jpeg]]
 

@@ -25,6 +25,7 @@
 * <2020-05-24 Sun>
 
 #+caption: 你，与我走过的路
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/michi.jpeg]]
 
@@ -50,6 +51,7 @@
 
 * <2020-05-20 Wed>
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/flowers.jpeg]]
 
@@ -134,6 +136,7 @@
 
 我们不用学习高数，反而是学习数学分析、高等代数和解析几何．在这里面，最喜欢的就是数学分析了．数列极限这些可以说它最基础的内容，我喜欢它的抽象，但这种抽象不需要图形上的想象，只需要思维上，只要一支笔，就可以完成各种证明．缺乏想象的话，解析几何就有点难了．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/maths.jpg]]
 
@@ -143,6 +146,7 @@
 
 最近给你拍的花．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/recent.png]]
 
@@ -150,6 +154,7 @@
 
 说到这我想起了些东西，哈哈．其实我是个没什么（没有）艺术细胞的人，审美那就那样……所以，像假如（万一）你看到了这里，其实当我写的时候它是这样的：
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/org.png]]
 
@@ -157,6 +162,7 @@
 
 这就是为什么程序员都用Markdown而不用Word的理由了．写毕业论文的时候也是那样，只需要在记事本里写好文字，就会[[https://github.com/scnu/scnuthesis][生成]]符合格式的PDF．
 
+#+attr_latex: :width 11cm
 #+attr_html: :width 500px
 [[file:images/index/thesis.png]]
 
@@ -172,6 +178,7 @@
 
 遇见你的时候，就是这种感觉．
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/see_the_world.jpeg]]
 
@@ -195,6 +202,7 @@
 
 时间、地点、事情的起因、经过和结果，我也忘了，不知道哪一天起，我突然就吃了一个生的小番茄．哦，挺好吃的．我没有吃过生的大番茄，但是小的味道感觉跟大的很接近，但有一点儿不一样，只是我不会描述．后来，那个同学跟我说，潮汕那边的小番茄特别好吃．直到那天他给我拿了一袋，圆滚滚的，特别饱满，跟普通的小番茄不一样，跟圣女果也不一样，确实好吃．
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/tomato.png]]
 

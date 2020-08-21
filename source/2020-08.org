@@ -14,6 +14,7 @@
 
 -------------------------------------------------------------------------------
 
+#+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/see_u.jpg]]
 
