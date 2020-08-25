@@ -1,5 +1,11 @@
 #+include: options.org
 
+* <2020-08-25 Tue>
+
+#+attr_latex: :width 7cm
+#+attr_html: :width 300px
+[[file:images/index/take_me_home.jpg]]
+
 * <2020-08-23 Sun>
 
 在你那里的星巴克呆了两天，幻想着你会过来陪我聊聊天．
