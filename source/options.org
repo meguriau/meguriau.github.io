@@ -3,7 +3,8 @@
 #+author:小烦
 #+options: num:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
-#+options: toc:nil num:nil html-style:nil
+#+options: toc:nil num:nil html-style:nil 
+#+options: author:nil date:nil html-postamble:nil
 #+startup: customtime
 
 * Sunshine

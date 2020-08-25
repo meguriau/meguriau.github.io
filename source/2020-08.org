@@ -4,6 +4,8 @@
 
 至少想在“这么特别”的日子，想离你近一点．
 
+#+attr_latex: :width 11cm
+#+attr_html: :width 500px
 [[file:images/index/lake.jpg]]
 
 * <2020-08-24 Mon>
