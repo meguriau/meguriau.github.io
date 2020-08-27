@@ -1,5 +1,11 @@
 #+include: options.org
 
+* <2020-08-27 Thu>
+
+#+attr_latex: :width 7cm
+#+attr_html: :width 300px
+[[file:images/index/way_to_you.jpg]]
+
 * <2020-08-25 Tue>
 
 #+attr_latex: :width 7cm
