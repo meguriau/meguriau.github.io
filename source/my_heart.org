@@ -2,9 +2,15 @@
 
 * <2020-08-27 Thu>
 
+只想早一点见到你．
+
 #+attr_latex: :width 7cm
 #+attr_html: :width 300px
 [[file:images/index/way_to_you.jpg]]
+
+* <2020-08-26 Wed>
+
+站起来，干一架．
 
 * <2020-08-25 Tue>
 
