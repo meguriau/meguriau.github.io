@@ -1,5 +1,0 @@
-#+include: options.org
-
-* <2020-08-26 Wed>
-
-赌5毛钱明天有东西吃．
