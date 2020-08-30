@@ -12,6 +12,8 @@
 #+attr_html: :width 300px
 [[file:images/index/way_to_you.jpg]]
 
+每次你轻易说出来不再联系，不要再见的时候，我都比较难过．
+
 * <2020-08-26 Wed>
 
 站起来，干一架．
