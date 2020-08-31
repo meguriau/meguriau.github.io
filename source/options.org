@@ -1,5 +1,5 @@
 #+title: 朝顔
-#+subtitle: 如果你想说，那我就在听．
+#+subtitle: 668 如果你想说，那我就在听．
 #+author:小烦
 #+options: num:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="static/rethink.css" />
