@@ -108,7 +108,7 @@
 
 #+attr_latex: :width 11cm
 #+attr_html: :width 500px
-[[file:images/index/classroom.JPG]]
+[[file:images/index/classroom.jpg]]
 
 * <2020-03-26 Thu>
 
