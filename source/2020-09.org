@@ -1,5 +1,9 @@
 #+include: options.org
 
+* <2020-09-16 Wed>
+
+．
+
 * <2020-09-15 Tue>
 
 让我知道，让我看到．幸福在[[https://www.zhihu.com/question/276447159/answer/903324837][你我]]手中．
