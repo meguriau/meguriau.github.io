@@ -3,278 +3,234 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-09-18 Fri 17:46 -->
+<!-- 2020-09-19 Sat 21:59 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>朝顔</title>
+<title>&lrm;</title>
 <meta name="generator" content="Org mode" />
-<link rel="stylesheet" type="text/css" href="static/rethink.css" />
+<meta name="author" content="Yevgnen Koh" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
 </head>
 <body>
 <div id="content">
-<h1 class="title">朝顔
-<br />
-<span class="subtitle">654 如果你想说，那我就在听．</span>
-</h1>
-
-<div id="outline-container-org5f95a94" class="outline-2">
-<h2 id="org5f95a94">Sunshine</h2>
-<div class="outline-text-2" id="text-org5f95a94">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org5ff3245">span class="timestamp-wrapper"span class="timestamp"&lt;2020年09月19日&gt;/span/span</a></li>
+</ul>
+</div>
+</div>
 <p>
-<a href="2020-09.html">2020.09</a> <a href="2020-08.html">2020.08</a> <a href="2020-07.html">2020.07</a> <a href="2020-06.html">2020.06</a> <a href="2020-05.html">2020.05</a> <a href="2020-04.html">2020.04</a> <a href="2020-03.html">2020.03</a> <a href="2020-02.html">2020.02</a> <a href="2020-01.html">2020.01</a> <a href="all.html">all</a>
+options.org
 </p>
-</div>
-</div>
 
-<div id="outline-container-org0d93654" class="outline-2">
-<h2 id="org0d93654"><span class="timestamp-wrapper"><span class="timestamp">2020年09月17日</span></span></h2>
-<div class="outline-text-2" id="text-org0d93654">
+<div id="outline-container-org5ff3245" class="outline-2">
+<h2 id="org5ff3245"><span class="timestamp-wrapper"><span class="timestamp">2020年09月19日</span></span></h2>
+<div class="outline-text-2" id="text-org5ff3245">
 <p>
-你说得对，真正让我觉得等了好久的是你的转变．
-</p>
-</div>
-</div>
-
-<div id="outline-container-org293b35b" class="outline-2">
-<h2 id="org293b35b"><span class="timestamp-wrapper"><span class="timestamp">2020年09月16日</span></span></h2>
-<div class="outline-text-2" id="text-org293b35b">
-<p>
-你还拥有着很多大多数人已经失去的东西，虽然这一句话从我一老人口里说出来怪怪的，你听起来应该也是怪怪的．善良纯真的人，往往注定在生活里容易受到动摇、打击和伤害．我害怕让你遭受这一切．最后能拥抱这个世界美好的人，一定是还保留着这一份纯粹的人．
-</p>
-</div>
-</div>
-
-<div id="outline-container-org9abbee7" class="outline-2">
-<h2 id="org9abbee7"><span class="timestamp-wrapper"><span class="timestamp">2020年09月15日</span></span></h2>
-<div class="outline-text-2" id="text-org9abbee7">
-<p>
-让我知道，让我看到．幸福在<a href="https://www.zhihu.com/question/276447159/answer/903324837">你我</a>手中．
-</p>
-</div>
-</div>
-
-<div id="outline-container-orged59e68" class="outline-2">
-<h2 id="orged59e68"><span class="timestamp-wrapper"><span class="timestamp">2020年09月14日</span></span></h2>
-<div class="outline-text-2" id="text-orged59e68">
-<p>
-就知道你会被打鸡血！
+今天见到你很开心．
 </p>
 
 <p>
-今天不知道为什么，一点也不累．但为了说服自己是累的，我好早就关灯上床．望着天花板，又睡不着．还是爬起来，打开手机，想写：我好想你．
+的确有点意外，虽然内心知道你也会有一丢丢想来见我，但想到你家里肯定不方便，所以是没有想到你会过来的．当睁开眼睛不久后，看到你说就在楼下的时候，我开心死了．
 </p>
-</div>
 
-<div id="outline-container-org86a2195" class="outline-3">
-<h3 id="org86a2195"><span class="timestamp-wrapper"><span class="timestamp">2020年09月15日</span></span></h3>
-<div class="outline-text-3" id="text-org86a2195">
 <p>
-然而，还是一点也不累．
+我很贪心，想你一直在我身边．所以我会想努力，为你，为我们．
 </p>
+
+<p>
+我发现，面对面跟你说话的时候，谈及一些事的时候，</p>
 </div>
 </div>
 </div>
-
-<div id="outline-container-orge2bf369" class="outline-2">
-<h2 id="orge2bf369"><span class="timestamp-wrapper"><span class="timestamp">2020年09月13日</span></span></h2>
-<div class="outline-text-2" id="text-orge2bf369">
-<p>
-第一次去见他们时候，他们还没结婚．前年刚失恋，也是CEO叫大佬通知我说要辞退我不久之后．虽然大佬最后也没说出口，而且我那时候也不知道这件事．但在那我留了下来以后，倒是跟他越走越近了．尤其喜欢跟他月度review的时候，一起去楼下边喝边聊边吐槽的时候．那天跟他们去吃的韩国烤肉．现在还能记得的就是他们一边吃一边相互吐槽；以及，当时他说吃哪种肉就要用哪种菜来包，哪种肉就要用薄荷叶来包．现在自然也忘了．
-</p>
-
-<p>
-第二次去就是前年他们结婚的时候，想起来，后天就两年了．那时候我和那个骑自行车的朋友就是负责收红包的……去到他们老家，印象深刻的就是他爸非常热情好客．他以前是拉二胡的，然后大佬从小就耳濡目染，没上过一天钢琴课，就无师自通钢琴．那天，只记得他爸一边操劳着各种琐事，一边逗我们让我们多去他家玩，然后说要拉二胡跟我们“夹歌”．在宝墨园的晚宴，我还记得的是他们的笑容，以及池塘里大得快要成精的一大群鲤鱼．
-</p>
-
-<p>
-今天看到了他们的小宝宝．下周六就一岁了．一整天都没哭闹一次哈，就是不怎么粘我．但是去逗他的时候，还是会笑着回应我．
-</p>
-
-<p>
-每次去都能听到大佬即兴弹钢琴．今天给你发的是《千与千寻》里某首配乐《<a href="https://music.163.com/#/song?id=1403706788">One Summer's Day</a>》，不知道第一次在电影院里听到的时候莫明感动……．可能你也听过吧．可能也没．
-</p>
-
-<p>
-“你带我去吧．”
-</p>
-
-<p>
-“想啥呢．”
-</p>
-</div>
-</div>
-
-<div id="outline-container-org36bbca6" class="outline-2">
-<h2 id="org36bbca6"><span class="timestamp-wrapper"><span class="timestamp">2020年09月12日</span></span></h2>
-<div class="outline-text-2" id="text-org36bbca6">
-<p>
-每次坐在星巴克圆桌的时候，总能想像你在对面，小小只的，双手捧着白色杯子的样子．虽然那次去中华广场拍照的时候，其实你并没有捧着．我的想象力……
-</p>
-
-<p>
-如果你现在就在对面，多好．
-</p>
-
-<p>
-上几周高新区的这个位置都有活动．上上上周是乒乓球球赛，居然放得进了两大张球桌．上上周是是猫展，中庭放满了来参展的猫咪，还有位置给人们和猫咪合照．上周好像也是．今天没有．没有我才看得完这大半本书．虽然写得不怎么样．
-</p>
-</div>
-</div>
-
-<div id="outline-container-org1c48daa" class="outline-2">
-<h2 id="org1c48daa"><span class="timestamp-wrapper"><span class="timestamp">2020年09月10日</span></span></h2>
-<div class="outline-text-2" id="text-org1c48daa">
-<p>
-我的话，想你的时候会想告诉你，告诉你：丽华，我想你了．
-</p>
-
-<p>
-我的话，被想的时候，会觉得开心，还有牵挂．从心里说，还会有一丝责任．
-</p>
-</div>
-</div>
-
-<div id="outline-container-orge653bf1" class="outline-2">
-<h2 id="orge653bf1"><span class="timestamp-wrapper"><span class="timestamp">2020年09月09日</span></span></h2>
-<div class="outline-text-2" id="text-orge653bf1">
-<p>
-这天貌似搞活动，我后来还是去把那件POLO买了回来……
-</p>
-
-<p>
-晚上我在第一次和你视频的路灯下面站着，然后一个女的跟一个男的在我面前走过．那女的在低着头玩手机，经过我身边的时候可能我动了一下，突然吓了一跳弹开了，说道：“啊！我以为是个雕像……”，然后笑着跟那个男的走开了……
-</p>
-
-<p>
-我在等你跟我说说面试呢！不过后来太睏了，很早地回去了．
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgd920b8f" class="outline-2">
-<h2 id="orgd920b8f"><span class="timestamp-wrapper"><span class="timestamp">2020年09月08日</span></span></h2>
-<div class="outline-text-2" id="text-orgd920b8f">
-<p>
-回来的时候本来没有下雨的．入门之后就开始下起雨来．平时如果回来的时候下雨，我会在沙园的星巴克呆到停雨了才回来．所以，今晚是我第一次在未入“夜”之前在屋里和你聊天．从那天以后，我现在现在还没坐过在沙发上……还是会想呆在屋外．今天711搞活动，前几天给你说的那个饼干，10块钱3盒，我就悄悄买了3盒．平时可是6块1盒……我挨在窗边，听着雨声，一边吃饼干一边跟你聊天．每次看/感受到你斗志昂扬的样子，我嘴角就会不自觉的上扬，你可能不会觉得，这些微不足道的片段，就是为我带来力量的源泉．
-</p>
-
-<p>
-一直想给你语音，但你还是会咳嗽．得赶紧好起来吧．
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgcff6486" class="outline-2">
-<h2 id="orgcff6486"><span class="timestamp-wrapper"><span class="timestamp">2020年09月07日</span></span></h2>
-<div class="outline-text-2" id="text-orgcff6486">
-<p>
-白露．
-</p>
-
-<p>
-最先想起的就是走过草地的时候，小草上的露水沾在脚上的感觉．其实我不是很喜欢．不过跟雨后不一样，下过雨的话，通常连泥土也是湿漉漉的，鞋子也会被脏．而这不会．
-</p>
-
-<p>
-我想起了初高中上学的时候，第一台自行车还没被偷的时候，因为那辆车（“野马”）设计的缘故，骑过湿漉漉的地面时，总是把水溅到背上，每次校服都被我弄脏了还不自知．后来车<a href="2020-03.html#orgd573f1e">被偷</a>了，换了另一辆反而没有了这样的烦恼．
-</p>
-
-<p>
-上次，我信还写的是秋意渐浓……今天，这才真正勉强有了点秋天的气息．工作的时候坐了一会就会觉得有点冷，但洗澡的时候，水还是有一点暖和．
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgcce5971" class="outline-2">
-<h2 id="orgcce5971"><span class="timestamp-wrapper"><span class="timestamp">2020年09月06日</span></span></h2>
-<div class="outline-text-2" id="text-orgcce5971">
-<p>
-这种花，平时只会开得零零星星，枯萎了的时候还会原封不动整朵在那里．以前我觉得不怎么好看，尤其枯萎了之后．这次看到一大丛二十多米的花“海”的时候，觉得也挺好看的．
-</p>
-
-
-<div id="orgf8bd4f1" class="figure">
-<p><img src="images/index/unknown_flower.jpeg" alt="unknown_flower.jpeg" width="300px" />
-</p>
-</div>
-</div>
-</div>
-
-<div id="outline-container-orge0c5e98" class="outline-2">
-<h2 id="orge0c5e98"><span class="timestamp-wrapper"><span class="timestamp">2020年09月05日</span></span></h2>
-<div class="outline-text-2" id="text-orge0c5e98">
-<p>
-这宝贵的一分钟．虽然只看到小眼睛和额头，不过也能感受到气色差了不少．看到咳得身子向后变的时候，感受整个人都要咳飞一样……
-</p>
-
-<p>
-特别喜欢看到她的眼睛弯成一道美丽的弧线．只想摸摸她的头，跟她说：加油．
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgacf8502" class="outline-2">
-<h2 id="orgacf8502"><span class="timestamp-wrapper"><span class="timestamp">2020年09月03日</span></span></h2>
-<div class="outline-text-2" id="text-orgacf8502">
-<p>
-后来认真地数了一下，应该是第4次剪头发．7月1号之前一次，后面两次，今天最第4次．想说这次他5分钟就赚了我20块，时薪挺高的．准备发送的时候，才想起来，上一次我好像说过类似的话．有点失忆了．
-</p>
-
-<p>
-想起来，已经有一年零7个月没有去<a href="2020-03.html#orgfe52e23">阿姨</a>那里剪发了．这段时间都是临时起意，结果就找陌生的Tony去剪了．
-</p>
-
-<p>
-生平第一次感觉，一切是这么的快，又这么的慢．
-</p>
-
-<p>
-知道丽华憔悴起来，心痛．不过，想她不要因为这样而不想让我知道．喜欢她蹦蹦跳跳的样子．
-</p>
-</div>
-</div>
-
-<div id="outline-container-org1cdcde6" class="outline-2">
-<h2 id="org1cdcde6"><span class="timestamp-wrapper"><span class="timestamp">2020年09月02日</span></span></h2>
-<div class="outline-text-2" id="text-org1cdcde6">
-<p>
-假装去楼下拿快递溜了一圈，看到没有见过的小花．不知道丽华有没有见过．
-</p>
-
-
-<div id="orgdf73c2f" class="figure">
-<p><img src="images/index/purple_flower.jpg" alt="purple_flower.jpg" width="500px" />
-</p>
-</div>
-
-<p>
-这个世界依然充满未知．
-</p>
-</div>
-</div>
-
-<div id="outline-container-org456b86a" class="outline-2">
-<h2 id="org456b86a"><span class="timestamp-wrapper"><span class="timestamp">2020年09月01日</span></span></h2>
-<div class="outline-text-2" id="text-org456b86a">
-<p>
-今天应该是开学了，到处都是一群群的学生．
-</p>
-
-<p>
-想必她也是个满满仪式感的人，以前开学的时候一定会坚定地给自己说一句新学期加油．然后元气满满地迎接新的一天．
-</p>
-
-<blockquote>
-<p>
-元気いっぱいの一日
-</p>
-</blockquote>
-
-<p>
-我想跟她说：好起来，加油！
-</p>
-</div>
-</div>
+<div id="postamble" class="status">
+<p class="author">Author: Yevgnen Koh</p>
+<p class="date">Created: 2020-09-19 Sat 21:59</p>
 </div>
 </body>
 </html>
