@@ -20,7 +20,7 @@ body {
     padding: 1em;
     color: #000;
     font-family: "Source Serif Pro",Georgia,serif;
-    line-height: 32px;
+    /* line-height: 32px; */
     font-size: 1.08rem;
 }
 
