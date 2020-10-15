@@ -211,6 +211,14 @@ a:hover {
     margin: 0 0.5em 0.5em -0.2em;
 }
 
+.subtitle {
+    font-family: Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 0 0.5em 0.5em -0.2em;
+}
+
+
 h1 {
     font-family: Helvetica,Arial,"Lucida Grande",sans-serif;
     font-size: 2.5rem;
