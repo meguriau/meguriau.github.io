@@ -219,6 +219,9 @@ I don't, I just believe it.
 ☺️
 
 * <2020-02-13 Thu>
+:PROPERTIES:
+:ID:       20201120-<2020-02-13-thu>
+:END:
 
 直到我和陈医生通过一条朋友圈聊起天来．
 
@@ -381,6 +384,9 @@ I don't, I just believe it.
 今天和你聊天，不知道为什么气氛变得有点奇怪．这两天明明是我感觉想通了，却反而觉得你离我变远了．
 
 * <2020-02-03 Mon>
+:PROPERTIES:
+:ID:       20201120-<2020-02-03-mon>
+:END:
 
 今天看到[[https://www.zhihu.com/question/358114762/answer/997575448][这个]]：
 
@@ -410,7 +416,7 @@ I don't, I just believe it.
 I'm calling my bloody constant！
 #+end_quote
 
-你会不会是我的constant呢？在成为你的牵挂之前，今晚我选择不去找你．
+你会不会是我的constant呢？想成为你的牵挂，今晚不去找你．
 
 * <2020-02-02 Sun>
 
