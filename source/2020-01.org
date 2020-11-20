@@ -1,6 +1,9 @@
 #+include: options.org
 
 * <2020-01-31 Fri>
+:PROPERTIES:
+:ID:       20201120-<2020-01-31-fri>
+:END:
 
 人それぞれ．
 
