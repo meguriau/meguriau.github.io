@@ -1,5 +1,11 @@
 #+include: options.org
 
+* <2020-12-17 Thu>
+
+一个平凡的故事：
+
+[[https://www.youtube.com/watch?v=UDusgn8Fbrg][1]], [[https://www.youtube.com/watch?v=CMSa5DEJfsM][2]], [[https://www.youtube.com/watch?v=gkafHZqLBWU][3]], [[https://www.youtube.com/watch?v=mPp26PM6Q8I][4]], [[https://www.youtube.com/watch?v=2tSDGkLHf8E][5]], [[https://www.youtube.com/watch?v=hNl9-TODVDc][6]], [[https://www.youtube.com/watch?v=OF0iRAZ9K2I][7]], [[https://www.youtube.com/watch?v=d5K8alN6Icg][8]], [[https://www.youtube.com/watch?v=FEuJ-Fx0MHc][9]], [[https://www.youtube.com/watch?v=u2rVY1nmSC0][10]], [[https://www.youtube.com/watch?v=_nvE0P_ZUpo][11]], [[https://www.youtube.com/watch?v=9HZWXl-P5mA][12]]
+
 * <2020-12-16 Wed>
 
 又跑了5公里，跑的时候感觉比前一晚要快，手一样没有知觉，耳朵还好．跑完一看，又比前几晚要慢了35秒，坑爹了，最快的一圈比前一晚最慢的还要慢．所以有时感觉良好，也只是真的是感觉良好，实际并没有那么感觉良好．
