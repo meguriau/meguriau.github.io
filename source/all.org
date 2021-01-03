@@ -1,6 +1,7 @@
 #+include: options.org
 
 #+include: index.org :lines "2-"
+#+include: 2020-12.org :lines "2-"
 #+include: 2020-11.org :lines "2-"
 #+include: 2020-10.org :lines "2-"
 #+include: 2020-09.org :lines "2-"
