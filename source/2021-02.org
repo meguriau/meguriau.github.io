@@ -16,6 +16,8 @@
 Two a.m and the rain is falling…
 #+end_quote
 
+虽然现实是4 a.m.
+
 * <2021-02-28 Sun>
 
 我也想聊天．不想睡觉，不想睡觉．
