@@ -1,5 +1,15 @@
 #+include: options.org
 
+* <2021-04-01 Thu>
+
+匆匆．
+
+* <2021-03-30 Tue>
+
+#+begin_quote
+Why do people trust others?
+#+end_quote
+
 * <2021-03-28 Sun>
 
 天气真好，如果能一起外出多好．
