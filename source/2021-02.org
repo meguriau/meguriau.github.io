@@ -1,5 +1,13 @@
 #+include: options.org
 
+* <2021-04-02 Fri>
+
+#+begin_quote
+靖康耻，犹未雪．
+#+end_quote
+
+用夜深人静来压制焦躁的情绪．
+
 * <2021-04-01 Thu>
 
 匆匆．
